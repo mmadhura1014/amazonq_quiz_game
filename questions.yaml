@@ -1,0 +1,444 @@
+categories:
+  Physics:
+    easy:
+      - question: "What is the SI unit of force?"
+        options: ["Newton", "Joule", "Watt", "Pascal"]
+        correct: "Newton"
+      - question: "Which of these is NOT a type of electromagnetic wave?"
+        options: ["Radio waves", "X-rays", "Sound waves", "Gamma rays"]
+        correct: "Sound waves"
+      - question: "What is the formula for kinetic energy?"
+        options: ["KE = 1/2 × m × v^2", "KE = m × g × h", "KE = F × d", "KE = m × v"]
+        correct: "KE = 1/2 × m × v^2"
+      - question: "Which scientist is known for the three laws of motion?"
+        options: ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"]
+        correct: "Isaac Newton"
+      - question: "What is the speed of light in vacuum?"
+        options: ["300,000 km/s", "150,000 km/s", "200,000 km/s", "250,000 km/s"]
+        correct: "300,000 km/s"
+      - question: "Which of these is a unit of electrical resistance?"
+        options: ["Ohm", "Watt", "Volt", "Ampere"]
+        correct: "Ohm"
+      - question: "What is the SI unit of temperature?"
+        options: ["Kelvin", "Celsius", "Fahrenheit", "Rankine"]
+        correct: "Kelvin"
+      - question: "Which of these is NOT a state of matter?"
+        options: ["Energy", "Solid", "Liquid", "Gas"]
+        correct: "Energy"
+      - question: "What is the acceleration due to gravity on Earth (approximate value)?"
+        options: ["9.8 m/s²", "5.6 m/s²", "12.3 m/s²", "7.2 m/s²"]
+        correct: "9.8 m/s²"
+      - question: "Which color of light has the highest frequency?"
+        options: ["Violet", "Red", "Green", "Yellow"]
+        correct: "Violet"
+    medium:
+      - question: "What is the Doppler effect?"
+        options: ["Change in frequency due to relative motion", "Change in amplitude of waves", "Interference of waves", "Diffraction of waves"]
+        correct: "Change in frequency due to relative motion"
+      - question: "What is Ohm's law?"
+        options: ["V = IR", "P = VI", "F = ma", "E = mc²"]
+        correct: "V = IR"
+      - question: "Which particle has a positive charge?"
+        options: ["Proton", "Neutron", "Electron", "Photon"]
+        correct: "Proton"
+      - question: "What is the relationship between wavelength and frequency of a wave?"
+        options: ["They are inversely proportional", "They are directly proportional", "They are independent", "They are equal"]
+        correct: "They are inversely proportional"
+      - question: "What is the principle behind a transformer?"
+        options: ["Electromagnetic induction", "Photoelectric effect", "Nuclear fission", "Thermal expansion"]
+        correct: "Electromagnetic induction"
+      - question: "Which of these particles is NOT a fundamental particle?"
+        options: ["Neutron", "Electron", "Quark", "Photon"]
+        correct: "Neutron"
+      - question: "What is the First Law of Thermodynamics about?"
+        options: ["Conservation of energy", "Entropy increase", "Heat flow direction", "Absolute zero"]
+        correct: "Conservation of energy"
+      - question: "What is the Bernoulli principle related to?"
+        options: ["Fluid dynamics", "Quantum mechanics", "Relativity", "Electromagnetism"]
+        correct: "Fluid dynamics"
+    difficult:
+      - question: "What is the principle behind a nuclear reactor?"
+        options: ["Nuclear fission", "Nuclear fusion", "Radioactive decay", "Electron capture"]
+        correct: "Nuclear fission"
+      - question: "What is the Heisenberg Uncertainty Principle about?"
+        options: ["Cannot precisely measure both position and momentum simultaneously", "Cannot determine the exact energy of a particle", "Cannot predict weather beyond a week", "Cannot measure the speed of light accurately"]
+        correct: "Cannot precisely measure both position and momentum simultaneously"
+      - question: "What is the Schrödinger equation used for?"
+        options: ["Describing quantum systems", "Calculating gravitational fields", "Predicting weather patterns", "Analyzing electrical circuits"]
+        correct: "Describing quantum systems"
+      - question: "What is the significance of the Lorentz transformation?"
+        options: ["Relates measurements in different reference frames", "Calculates quantum tunneling probability", "Determines atomic decay rates", "Predicts black hole formation"]
+        correct: "Relates measurements in different reference frames"
+      - question: "What is the Casimir effect?"
+        options: ["Quantum vacuum fluctuations creating force between plates", "Gravitational lensing of light", "Magnetic field distortion in superconductors", "Relativistic time dilation"]
+        correct: "Quantum vacuum fluctuations creating force between plates"
+  
+  Chemistry:
+    easy:
+      - question: "What is the chemical symbol for gold?"
+        options: ["Au", "Ag", "Fe", "Cu"]
+        correct: "Au"
+      - question: "What is the pH of pure water at room temperature?"
+        options: ["7", "0", "14", "1"]
+        correct: "7"
+      - question: "Which gas do plants absorb during photosynthesis?"
+        options: ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"]
+        correct: "Carbon dioxide"
+      - question: "What is the most abundant element in Earth's atmosphere?"
+        options: ["Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"]
+        correct: "Nitrogen"
+      - question: "What type of bond is formed when electrons are shared between atoms?"
+        options: ["Covalent bond", "Ionic bond", "Hydrogen bond", "Metallic bond"]
+        correct: "Covalent bond"
+      - question: "What is the chemical symbol for sodium?"
+        options: ["Na", "So", "Sd", "Sm"]
+        correct: "Na"
+      - question: "Which gas makes up the majority of Earth's atmosphere?"
+        options: ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"]
+        correct: "Nitrogen"
+      - question: "What is the pH of a neutral solution?"
+        options: ["7", "0", "14", "1"]
+        correct: "7"
+      - question: "Which element has the chemical symbol 'Fe'?"
+        options: ["Iron", "Fluorine", "Francium", "Fermium"]
+        correct: "Iron"
+      - question: "What type of reaction occurs when an acid and base combine?"
+        options: ["Neutralization", "Combustion", "Decomposition", "Precipitation"]
+        correct: "Neutralization"
+    medium:
+      - question: "What is the molecular formula for glucose?"
+        options: ["C6H12O6", "C2H5OH", "CH4", "H2O"]
+        correct: "C6H12O6"
+      - question: "What is the process of converting a solid directly to gas called?"
+        options: ["Sublimation", "Evaporation", "Condensation", "Deposition"]
+        correct: "Sublimation"
+      - question: "Which element has the highest electronegativity?"
+        options: ["Fluorine", "Oxygen", "Chlorine", "Nitrogen"]
+        correct: "Fluorine"
+      - question: "What is the hybridization of carbon in methane (CH4)?"
+        options: ["sp3", "sp2", "sp", "sp3d"]
+        correct: "sp3"
+      - question: "What is the functional group in alcohols?"
+        options: ["Hydroxyl (-OH)", "Carboxyl (-COOH)", "Carbonyl (C=O)", "Amino (-NH₂)"]
+        correct: "Hydroxyl (-OH)"
+      - question: "Which of these is an example of a noble gas?"
+        options: ["Argon", "Chlorine", "Nitrogen", "Hydrogen"]
+        correct: "Argon"
+      - question: "What is the main component of natural gas?"
+        options: ["Methane", "Propane", "Butane", "Ethane"]
+        correct: "Methane"
+      - question: "What is the process of converting a gas directly to a solid called?"
+        options: ["Deposition", "Sublimation", "Condensation", "Vaporization"]
+        correct: "Deposition"
+    difficult:
+      - question: "What is the hybridization of carbon in benzene?"
+        options: ["sp2", "sp3", "sp", "sp3d"]
+        correct: "sp2"
+      - question: "What is the principle behind chromatography?"
+        options: ["Differential migration of compounds", "Electrolysis of compounds", "Precipitation of compounds", "Neutralization of compounds"]
+        correct: "Differential migration of compounds"
+      - question: "What is the Haber process used for?"
+        options: ["Ammonia synthesis", "Petroleum refining", "Steel production", "Water purification"]
+        correct: "Ammonia synthesis"
+      - question: "What is chirality in organic chemistry?"
+        options: ["Molecules that are non-superimposable mirror images", "Molecules with double bonds", "Molecules with ring structures", "Molecules with ionic bonds"]
+        correct: "Molecules that are non-superimposable mirror images"
+      - question: "What is the significance of the Nernst equation?"
+        options: ["Relates cell potential to concentration", "Calculates reaction rates", "Determines molecular structure", "Predicts bond angles"]
+        correct: "Relates cell potential to concentration"
+  
+  Mathematics:
+    easy:
+      - question: "What is the value of π (pi) to two decimal places?"
+        options: ["3.14", "3.16", "3.12", "3.18"]
+        correct: "3.14"
+      - question: "What is the formula for the area of a circle?"
+        options: ["πr2", "2πr", "πr3", "4πr2"]
+        correct: "πr2"
+      - question: "What is the square root of 144?"
+        options: ["12", "14", "10", "16"]
+        correct: "12"
+      - question: "What is the sum of angles in a triangle?"
+        options: ["180°", "360°", "90°", "270°"]
+        correct: "180°"
+      - question: "What is 5! (5 factorial)?"
+        options: ["120", "60", "24", "720"]
+        correct: "120"
+      - question: "What is the value of 5^2 × 2^3?"
+        options: ["200", "100", "50", "25"]
+        correct: "200"
+      - question: "What is the next number in the sequence: 2, 4, 8, 16, ...?"
+        options: ["32", "24", "20", "64"]
+        correct: "32"
+      - question: "What is the perimeter of a square with sides of length 5 cm?"
+        options: ["20 cm", "25 cm", "10 cm", "15 cm"]
+        correct: "20 cm"
+      - question: "If x + 3 = 8, what is the value of x?"
+        options: ["5", "11", "3", "-3"]
+        correct: "5"
+      - question: "What is 25% of 80?"
+        options: ["20", "25", "40", "8"]
+        correct: "20"
+    medium:
+      - question: "What is the derivative of sin(x)?"
+        options: ["cos(x)", "-sin(x)", "tan(x)", "sec(x)"]
+        correct: "cos(x)"
+      - question: "What is the value of log10(100)?"
+        options: ["2", "10", "1", "100"]
+        correct: "2"
+      - question: "What is the formula for the volume of a sphere?"
+        options: ["(4/3)πr3", "πr2", "4πr2", "2πr"]
+        correct: "(4/3)πr3"
+      - question: "What is the solution to the equation 2x^2 - 5x - 3 = 0?"
+        options: ["x = 3 or x = -0.5", "x = 2 or x = -1", "x = 5 or x = -3", "x = 1 or x = -3"]
+        correct: "x = 3 or x = -0.5"
+      - question: "What is the value of sin(30°)?"
+        options: ["0.5", "0", "1", "√3/2"]
+        correct: "0.5"
+      - question: "What is the derivative of x^2?"
+        options: ["2x", "x", "2x^2", "x^3"]
+        correct: "2x"
+      - question: "What is the solution to the equation 2x + 5 = 15?"
+        options: ["x = 5", "x = 10", "x = 7.5", "x = 3"]
+        correct: "x = 5"
+      - question: "What is the Pythagorean theorem?"
+        options: ["a^2 + b^2 = c^2", "a + b = c", "a × b = c", "a^2 - b^2 = c^2"]
+        correct: "a^2 + b^2 = c^2"
+    difficult:
+      - question: "What is the limit of sin(x)/x as x approaches 0?"
+        options: ["1", "0", "∞", "undefined"]
+        correct: "1"
+      - question: "What is the integral of e^x?"
+        options: ["e^x + C", "xe^x + C", "e^x/x + C", "ln(x) + C"]
+        correct: "e^x + C"
+      - question: "What is the definition of a continuous function?"
+        options: ["A function where small changes in input cause small changes in output", "A function that is always increasing", "A function with no asymptotes", "A function that passes through the origin"]
+        correct: "A function where small changes in input cause small changes in output"
+      - question: "What is the Riemann hypothesis about?"
+        options: ["Zeros of the zeta function", "Prime number distribution", "Geometric series convergence", "Differential equations"]
+        correct: "Zeros of the zeta function"
+      - question: "What is the fundamental theorem of calculus?"
+        options: ["Relates differentiation and integration", "Defines complex numbers", "Proves the existence of prime numbers", "Establishes the properties of matrices"]
+        correct: "Relates differentiation and integration"
+  
+  Biology:
+    easy:
+      - question: "What is the powerhouse of the cell?"
+        options: ["Mitochondria", "Nucleus", "Ribosome", "Golgi apparatus"]
+        correct: "Mitochondria"
+      - question: "What is the process by which plants make their food?"
+        options: ["Photosynthesis", "Respiration", "Digestion", "Excretion"]
+        correct: "Photosynthesis"
+      - question: "Which blood cells are responsible for fighting infections?"
+        options: ["White blood cells", "Red blood cells", "Platelets", "Plasma"]
+        correct: "White blood cells"
+      - question: "What is the largest organ in the human body?"
+        options: ["Skin", "Liver", "Brain", "Heart"]
+        correct: "Skin"
+      - question: "What is the basic unit of life?"
+        options: ["Cell", "Tissue", "Organ", "Molecule"]
+        correct: "Cell"
+      - question: "What is the main function of red blood cells?"
+        options: ["Transport oxygen", "Fight infections", "Clot blood", "Produce antibodies"]
+        correct: "Transport oxygen"
+      - question: "Which organ is responsible for filtering blood?"
+        options: ["Kidneys", "Liver", "Heart", "Lungs"]
+        correct: "Kidneys"
+      - question: "What is the process by which plants release water vapor?"
+        options: ["Transpiration", "Respiration", "Photosynthesis", "Germination"]
+        correct: "Transpiration"
+      - question: "Which of these is NOT a type of blood cell?"
+        options: ["Neuron", "Platelet", "White blood cell", "Red blood cell"]
+        correct: "Neuron"
+      - question: "What is the main function of chlorophyll in plants?"
+        options: ["Absorb light for photosynthesis", "Store water", "Transport nutrients", "Support the plant"]
+        correct: "Absorb light for photosynthesis"
+    medium:
+      - question: "What is the process of cell division called?"
+        options: ["Mitosis", "Meiosis", "Cytokinesis", "Prophase"]
+        correct: "Mitosis"
+      - question: "Which of these is NOT a nucleotide base found in DNA?"
+        options: ["Uracil", "Adenine", "Guanine", "Cytosine"]
+        correct: "Uracil"
+      - question: "What is the main function of the kidneys?"
+        options: ["Filtering blood", "Producing hormones", "Digesting food", "Pumping blood"]
+        correct: "Filtering blood"
+      - question: "What is the function of enzymes in the body?"
+        options: ["Catalyze biochemical reactions", "Store genetic information", "Transport oxygen", "Filter waste"]
+        correct: "Catalyze biochemical reactions"
+      - question: "Which organelle is known as the 'powerhouse' of the cell?"
+        options: ["Mitochondria", "Nucleus", "Endoplasmic reticulum", "Golgi apparatus"]
+        correct: "Mitochondria"
+      - question: "What is the process of DNA replication?"
+        options: ["Copying DNA before cell division", "Protein synthesis from DNA", "RNA production from DNA", "Chromosome separation during cell division"]
+        correct: "Copying DNA before cell division"
+      - question: "What is homeostasis?"
+        options: ["Maintaining stable internal conditions", "Cell division", "Genetic mutation", "Species evolution"]
+        correct: "Maintaining stable internal conditions"
+      - question: "Which of these is NOT a function of the liver?"
+        options: ["Produce insulin", "Detoxify blood", "Produce bile", "Store glycogen"]
+        correct: "Produce insulin"
+    difficult:
+      - question: "What is the process of crossing over in genetics?"
+        options: ["Exchange of genetic material between homologous chromosomes", "Separation of chromosomes during cell division", "Replication of DNA", "Transcription of DNA to RNA"]
+        correct: "Exchange of genetic material between homologous chromosomes"
+      - question: "What is the Krebs cycle?"
+        options: ["A series of chemical reactions in cellular respiration", "A process in photosynthesis", "A method of DNA replication", "A type of cell division"]
+        correct: "A series of chemical reactions in cellular respiration"
+      - question: "What is the Hardy-Weinberg principle used for?"
+        options: ["Predicting genetic variation in populations", "Determining evolutionary relationships", "Calculating mutation rates", "Identifying genetic diseases"]
+        correct: "Predicting genetic variation in populations"
+      - question: "What is the role of telomeres in chromosomes?"
+        options: ["Protect chromosome ends during replication", "Initiate DNA transcription", "Regulate gene expression", "Facilitate crossing over during meiosis"]
+        correct: "Protect chromosome ends during replication"
+      - question: "What is the significance of the sodium-potassium pump in cells?"
+        options: ["Maintains membrane potential", "Synthesizes proteins", "Produces ATP", "Replicates DNA"]
+        correct: "Maintains membrane potential"
+  
+  Social Science:
+    easy:
+      - question: "What is the capital of France?"
+        options: ["Paris", "London", "Berlin", "Rome"]
+        correct: "Paris"
+      - question: "Who wrote 'Romeo and Juliet'?"
+        options: ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"]
+        correct: "William Shakespeare"
+      - question: "Which of these is NOT one of the three branches of the US government?"
+        options: ["Education", "Executive", "Legislative", "Judicial"]
+        correct: "Education"
+      - question: "What event marked the beginning of World War I?"
+        options: ["Assassination of Archduke Franz Ferdinand", "Bombing of Pearl Harbor", "Fall of the Berlin Wall", "Russian Revolution"]
+        correct: "Assassination of Archduke Franz Ferdinand"
+      - question: "What is economics primarily concerned with?"
+        options: ["Production and distribution of resources", "Study of human behavior", "Political systems", "Cultural traditions"]
+        correct: "Production and distribution of resources"
+      - question: "Which of these is NOT a branch of social science?"
+        options: ["Astronomy", "Psychology", "Sociology", "Economics"]
+        correct: "Astronomy"
+      - question: "What is the study of past human events and activities called?"
+        options: ["History", "Archaeology", "Anthropology", "Geography"]
+        correct: "History"
+      - question: "Which document begins with 'We the People'?"
+        options: ["U.S. Constitution", "Declaration of Independence", "Magna Carta", "Bill of Rights"]
+        correct: "U.S. Constitution"
+      - question: "What is the capital of Japan?"
+        options: ["Tokyo", "Kyoto", "Osaka", "Beijing"]
+        correct: "Tokyo"
+      - question: "Who wrote 'The Republic'?"
+        options: ["Plato", "Aristotle", "Socrates", "Homer"]
+        correct: "Plato"
+    medium:
+      - question: "What was the Renaissance?"
+        options: ["Cultural movement in Europe", "Industrial revolution", "Religious war", "Political uprising"]
+        correct: "Cultural movement in Europe"
+      - question: "What is the main purpose of the United Nations?"
+        options: ["Maintain international peace and security", "Control global trade", "Regulate internet usage", "Fund space exploration"]
+        correct: "Maintain international peace and security"
+      - question: "What economic system is characterized by private ownership of means of production?"
+        options: ["Capitalism", "Communism", "Socialism", "Feudalism"]
+        correct: "Capitalism"
+      - question: "What economic system is characterized by government ownership of means of production?"
+        options: ["Socialism", "Capitalism", "Mercantilism", "Feudalism"]
+        correct: "Socialism"
+      - question: "What was the Enlightenment?"
+        options: ["Intellectual movement emphasizing reason and individualism", "Religious revival in Europe", "Period of artistic development", "Industrial revolution"]
+        correct: "Intellectual movement emphasizing reason and individualism"
+      - question: "What is the concept of 'social contract' associated with?"
+        options: ["Political philosophy about government legitimacy", "Economic theory of trade", "Psychological theory of development", "Anthropological study of rituals"]
+        correct: "Political philosophy about government legitimacy"
+      - question: "What was the Cold War?"
+        options: ["Geopolitical tension between the US and USSR", "Military conflict in Antarctica", "Trade dispute between European nations", "Civil war in Russia"]
+        correct: "Geopolitical tension between the US and USSR"
+      - question: "What is cultural relativism?"
+        options: ["Understanding cultures in their own context", "Belief in cultural superiority", "Study of cultural artifacts", "Theory of cultural evolution"]
+        correct: "Understanding cultures in their own context"
+    difficult:
+      - question: "What is the significance of the Treaty of Westphalia?"
+        options: ["Established the concept of state sovereignty", "Ended World War II", "Created the United Nations", "Established the European Union"]
+        correct: "Established the concept of state sovereignty"
+      - question: "What is the 'Tragedy of the Commons'?"
+        options: ["Depletion of shared resources by individuals acting in self-interest", "A Shakespearean play", "The fall of ancient Rome", "Economic depression of the 1930s"]
+        correct: "Depletion of shared resources by individuals acting in self-interest"
+      - question: "What is the 'prisoner's dilemma' in game theory?"
+        options: ["Scenario showing why two rational individuals might not cooperate", "Legal defense strategy", "Prison reform policy", "Criminal rehabilitation theory"]
+        correct: "Scenario showing why two rational individuals might not cooperate"
+      - question: "What is the significance of the Treaty of Versailles?"
+        options: ["Ended World War I", "Established the United Nations", "Created the European Union", "Ended the Cold War"]
+        correct: "Ended World War I"
+      - question: "What is structural functionalism in sociology?"
+        options: ["Theory viewing society as a complex system of parts working together", "Theory of individual behavior", "Economic development model", "Political organization theory"]
+        correct: "Theory viewing society as a complex system of parts working together"
+  
+  Computer Science:
+    easy:
+      - question: "What does CPU stand for?"
+        options: ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Control Processing Unit"]
+        correct: "Central Processing Unit"
+      - question: "Which of these is a programming language?"
+        options: ["Python", "Eagle", "Cobra", "Dolphin"]
+        correct: "Python"
+      - question: "What does HTML stand for?"
+        options: ["Hypertext Markup Language", "High Tech Modern Language", "Hypertext Machine Language", "High Text Marking Language"]
+        correct: "Hypertext Markup Language"
+      - question: "What is the main function of an operating system?"
+        options: ["Manage computer hardware and software resources", "Create documents", "Browse the internet", "Play games"]
+        correct: "Manage computer hardware and software resources"
+      - question: "Which of these is NOT a web browser?"
+        options: ["Photoshop", "Chrome", "Firefox", "Safari"]
+        correct: "Photoshop"
+      - question: "What does RAM stand for?"
+        options: ["Random Access Memory", "Read Access Memory", "Random Allocation Memory", "Readily Available Memory"]
+        correct: "Random Access Memory"
+      - question: "Which of these is a programming language?"
+        options: ["Java", "Oracle", "Microsoft", "Linux"]
+        correct: "Java"
+      - question: "What does URL stand for?"
+        options: ["Uniform Resource Locator", "Universal Reference Link", "Unified Resource Listing", "User Requested Link"]
+        correct: "Uniform Resource Locator"
+      - question: "Which company developed the Windows operating system?"
+        options: ["Microsoft", "Apple", "Google", "IBM"]
+        correct: "Microsoft"
+      - question: "What is the binary code for the decimal number 5?"
+        options: ["101", "100", "111", "110"]
+        correct: "101"
+    medium:
+      - question: "What is an algorithm?"
+        options: ["A step-by-step procedure for solving a problem", "A type of computer virus", "A programming language", "A hardware component"]
+        correct: "A step-by-step procedure for solving a problem"
+      - question: "What is the binary representation of the decimal number 10?"
+        options: ["1010", "1000", "1100", "1001"]
+        correct: "1010"
+      - question: "What does SQL stand for?"
+        options: ["Structured Query Language", "Simple Question Language", "Standard Query Logic", "System Quality Language"]
+        correct: "Structured Query Language"
+      - question: "What is the purpose of a firewall in computer networks?"
+        options: ["Monitor and control incoming and outgoing network traffic", "Speed up internet connection", "Store website data locally", "Convert binary to decimal"]
+        correct: "Monitor and control incoming and outgoing network traffic"
+      - question: "What is an API?"
+        options: ["Application Programming Interface", "Advanced Programming Integration", "Automated Program Instruction", "Application Process Identifier"]
+        correct: "Application Programming Interface"
+      - question: "What is the difference between HTTP and HTTPS?"
+        options: ["HTTPS is secure with encryption", "HTTP is faster", "HTTPS works only on mobile devices", "HTTP supports more file types"]
+        correct: "HTTPS is secure with encryption"
+      - question: "What is a database index used for?"
+        options: ["Speed up data retrieval operations", "Store backup data", "Connect to the internet", "Convert data formats"]
+        correct: "Speed up data retrieval operations"
+      - question: "What is object-oriented programming?"
+        options: ["Programming paradigm based on objects and classes", "Programming only for web applications", "Programming using only numbers", "Programming without variables"]
+        correct: "Programming paradigm based on objects and classes"
+    difficult:
+      - question: "What is the time complexity of a binary search algorithm?"
+        options: ["O(log n)", "O(n)", "O(n²)", "O(1)"]
+        correct: "O(log n)"
+      - question: "What is a recursive function?"
+        options: ["A function that calls itself", "A function that never ends", "A function with multiple parameters", "A function that returns boolean values"]
+        correct: "A function that calls itself"
+      - question: "What is the CAP theorem in distributed systems?"
+        options: ["Cannot simultaneously provide Consistency, Availability, and Partition tolerance", "Calculates Application Performance", "Controls Access Protocols", "Creates Automated Programs"]
+        correct: "Cannot simultaneously provide Consistency, Availability, and Partition tolerance"
+      - question: "What is the significance of P vs NP problem in computer science?"
+        options: ["Fundamental question about computational complexity", "Programming language comparison", "Network protocol standard", "Database query optimization"]
+        correct: "Fundamental question about computational complexity"
+      - question: "What is a blockchain?"
+        options: ["Distributed ledger technology", "Type of computer virus", "Programming language", "Hardware component"]
+        correct: "Distributed ledger technology"
